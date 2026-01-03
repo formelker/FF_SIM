@@ -1,0 +1,5 @@
+keyboard==0.13.5
+matplotlib==3.8.2
+numpy==2.4.0
+PyQt6==6.10.1
+PyQt6_sip==13.6.0
